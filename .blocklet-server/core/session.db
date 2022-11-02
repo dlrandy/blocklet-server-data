@@ -1,0 +1,2 @@
+{"$$indexCreated":{"fieldName":"createdAt","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"expireDate","unique":false,"sparse":false}}
